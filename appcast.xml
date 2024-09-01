@@ -1,1 +1,14 @@
-
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LemonCute</title>
+        <item>
+            <title>0.1</title>
+            <pubDate>Sun, 01 Sep 2024 11:10:40 +0200</pubDate>
+            <sparkle:version>0.1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://southern-sun-studio.github.io/lemon-cute-releases/LemonCute-Installer.dmg" length="48448981" type="application/octet-stream" sparkle:edSignature="+phCsBJmPRD8DzBozD7wSqdsHvgdZZkk83eDnQaEh5yUUqDM5tkwfXDUyGjsKqynex65lSgj8IevaOBh36DiBg=="/>
+        </item>
+    </channel>
+</rss>
