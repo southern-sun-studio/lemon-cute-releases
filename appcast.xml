@@ -1,54 +1,22 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" standalone="yes" ?>
+<rss
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+    version="2.0"
+>
     <channel>
         <title>LemonCute</title>
         <item>
-            <title>0.1.7</title>
-            <pubDate>Sun, 22 Sep 2024 22:09:09 +0200</pubDate>
-            <sparkle:version>0.1.7</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <title>0.1.8</title>
+            <pubDate>Sat, 18 Jan 2025 16:49:32 +0100</pubDate>
+            <sparkle:version>0.1.8</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/southern-sun-studio/lemon-cute-releases/releases/download/v0.1.7/LemonCute-Installer.dmg" length="33707030" type="application/octet-stream" sparkle:edSignature="kyP4MNH0xvaohH1AmQB9Rmgyl4sLEZB6ye7hI4kmLfjhTDJut2uC2sp8dpkSzzRfd3gTU2cFuzQC+TPuEhEkBw=="/>
-        </item>
-        <item>
-            <title>0.1.6</title>
-            <pubDate>Thu, 12 Sep 2024 23:38:04 +0200</pubDate>
-            <sparkle:version>0.1.6</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/southern-sun-studio/lemon-cute-releases/releases/download/v0.1.6/LemonCute-Installer.dmg" length="33631217" type="application/octet-stream" sparkle:edSignature="UWjFvOfQaHoSepBrYMHGQVpi58UC6aY62DhN4tD4ewfBdvzmQHOHvA4LrVQ7opLAU3w+lf1IPdwLp1uidVbgBA=="/>
-        </item>
-        <item>
-            <title>0.1.5</title>
-            <pubDate>Mon, 09 Sep 2024 19:31:15 +0200</pubDate>
-            <sparkle:version>0.1.5</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/southern-sun-studio/lemon-cute-releases/releases/download/v0.1.5/LemonCute-Installer.dmg" length="33210964" type="application/octet-stream" sparkle:edSignature="GxJsfRtm11ItfBX0oMAlwl5Ta3tevuqoGf6XgC/jj7ZnOKqBbv9Jcu6we7XxFkY8tmXVxSrjTiT1/SI4SwIuBg=="/>
-        </item>
-        <item>
-            <title>0.1.4</title>
-            <pubDate>Wed, 04 Sep 2024 19:31:22 +0200</pubDate>
-            <sparkle:version>0.1.4</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/southern-sun-studio/lemon-cute-releases/releases/download/v0.1.4/LemonCute-Installer.dmg" length="48478318" type="application/octet-stream" sparkle:edSignature="EVB3dRqB68fDZmhZ4LNiNJiDgJ869V/sTHeHl7KlaSMCEspmw44M8ixi5Ai4ZdoOtpIWqAYKCAoEGne++1VEAA=="/>
-        </item>
-         <item>
-            <title>0.1.3</title>
-            <pubDate>Sun, 01 Sep 2024 22:26:42 +0200</pubDate>
-            <sparkle:version>0.1.3</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/southern-sun-studio/lemon-cute-releases/releases/download/v0.1.3/LemonCute-Installer.dmg" length="48454382" type="application/octet-stream" sparkle:edSignature="+BZ3AP1z1y82a+vHjh0Rd4s56f9dIZ/kzq7kL4pRfTX7nk5o7A3Q//RLCSw+A+WG3gqRTpX4KsqOoyqYVckOAQ=="/>
-        </item>
-        <item>
-            <title>0.1.2</title>
-            <pubDate>Sun, 01 Sep 2024 16:33:13 +0200</pubDate>
-            <sparkle:version>0.1.2</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/southern-sun-studio/lemon-cute-releases/releases/download/v0.1.2/LemonCute-Installer.dmg" length="48451403" type="application/octet-stream" sparkle:edSignature="C4AJfFYKRyaTBV0wvcmjPH40bVGGT1aj2Ffg/3ftwtEtnqf1u3c5vN6Pyi+eHM0wAEFUC43y7yJHl359qe6IBg=="/>
+            <enclosure
+                url="https://southern-sun-studio.github.io/lemon-cute-releases/LemonCute-Installer.dmg"
+                length="35357638"
+                type="application/octet-stream"
+                sparkle:edSignature="0yKTrbnpMxcJtVRqUd0JUNUHsCgdcIOyQE/t1CksK8e+V1mjlxvTKPklHSl104flMAs1tjiHpTsEzl7y8TX/Aw=="
+            />
         </item>
     </channel>
 </rss>
