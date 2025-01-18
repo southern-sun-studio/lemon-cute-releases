@@ -12,7 +12,7 @@
             <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://southern-sun-studio.github.io/lemon-cute-releases/LemonCute-Installer.dmg"
+                url="https://github.com/southern-sun-studio/lemon-cute-releases/releases/download/v0.1.8/LemonCute-Installer.dmg"
                 length="35357638"
                 type="application/octet-stream"
                 sparkle:edSignature="0yKTrbnpMxcJtVRqUd0JUNUHsCgdcIOyQE/t1CksK8e+V1mjlxvTKPklHSl104flMAs1tjiHpTsEzl7y8TX/Aw=="
