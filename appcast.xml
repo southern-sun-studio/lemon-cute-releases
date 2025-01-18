@@ -7,15 +7,15 @@
         <title>LemonCute</title>
         <item>
             <title>0.1.8</title>
-            <pubDate>Sat, 18 Jan 2025 16:49:32 +0100</pubDate>
+            <pubDate>Sat, 18 Jan 2025 19:17:21 +0100</pubDate>
             <sparkle:version>0.1.8</sparkle:version>
             <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/southern-sun-studio/lemon-cute-releases/releases/download/v0.1.8/LemonCute-Installer.dmg"
-                length="35357638"
+                url="https://southern-sun-studio.github.io/lemon-cute-releases/LemonCute-Installer.dmg"
+                length="35661490"
                 type="application/octet-stream"
-                sparkle:edSignature="0yKTrbnpMxcJtVRqUd0JUNUHsCgdcIOyQE/t1CksK8e+V1mjlxvTKPklHSl104flMAs1tjiHpTsEzl7y8TX/Aw=="
+                sparkle:edSignature="lYY0Rw5zwIxt3nK17Lgf1NWRmaz+erOhV0EeWePGT5zdpwcgbHRXN4YQAAWV+BUsNuvMjSPdzcx3yUG62zmGDg=="
             />
         </item>
     </channel>
