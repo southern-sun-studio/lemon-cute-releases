@@ -6,6 +6,19 @@
     <channel>
         <title>LemonCute</title>
         <item>
+            <title>0.1.9</title>
+            <pubDate>Sun, 23 Feb 2025 18:46:47 +0100</pubDate>
+            <sparkle:version>0.1.9</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/southern-sun-studio/lemon-cute-releases/releases/download/v0.1.9/LemonCute-Installer.dmg"
+                length="13194299"
+                type="application/octet-stream"
+                sparkle:edSignature="8GcCCQXRMIjZ7Z97mumxAF1jVHDf2sCuQs+bzC9l9LwRC3jqbJXKzjuhy5LLlWpd92BXCpNXMLMjIFWwenbSDA=="
+            />
+        </item>
+        <item>
             <title>0.1.8</title>
             <pubDate>Sat, 18 Jan 2025 19:17:21 +0100</pubDate>
             <sparkle:version>0.1.8</sparkle:version>
